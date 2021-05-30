@@ -1,0 +1,3 @@
+[submodule "src/kuka_experimental"]
+	path = src/kuka_experimental
+	url = https://github.com/ros-industrial/kuka_experimental.git
