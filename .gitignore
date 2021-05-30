@@ -1,0 +1,4 @@
+.catkin_workspace
+**/build
+**/install
+*.vscode
