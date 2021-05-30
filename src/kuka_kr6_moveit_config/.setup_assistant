@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: kuka_kr6_support
+    relative_path: urdf/kr6r900sixx.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/kuka_kr6r900sixx.srdf
+  CONFIG:
+    author_name: Aytac Kahveci
+    author_email: aytac@bilims.com
+    generated_timestamp: 1622373666
